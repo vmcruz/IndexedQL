@@ -1,0 +1,1 @@
+Clase encapsuladora para IndexedDB que permite hacer uso del lenguaje estructurado a través de métodos.
